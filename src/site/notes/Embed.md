@@ -12,6 +12,8 @@
 > - Verstehen, was bei der Kündigung eines Lehrvertrags beachtet werden muss.
 > - Erkennen, welche Rechte und Pflichten beide Vertragsparteien haben.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmgyKQPwihI?si=EZG5TnsRmUVTJH-J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 >[!question] Wählen Sie eine Frage und begründen Sie Ihre Antwort
 >1. **Haben Sie oder jemand, den Sie kennen, schon einmal die Lehrstelle gewechselt oder gekündigt? Wie war das?**
 >2. **Was würden Sie tun, wenn Sie merken, dass Sie lieber eine Mittelschule als eine Lehre besuchen möchten?**
