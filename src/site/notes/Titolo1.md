@@ -3,3 +3,5 @@
 ---
 
 Hello
+
+[[Titolo1\|Titolo1]]
