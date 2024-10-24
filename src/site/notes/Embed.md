@@ -17,6 +17,33 @@
   Your browser does not support the audio element.
 </audio>
 
+<audio id="myAudio" controls>
+  <source src="https://audio.podigee-cdn.net/834643-m-917d47af38c533dd2ed7ae923ccbfcc1.opus" type="audio/ogg">
+  Your browser does not support the audio element.
+<script>
+  const audio = document.getElementById('myAudio');
+  
+  // Set the start and end time in seconds
+  const startTime = 10; // Start at 10 seconds
+  const endTime = 20;   // End at 20 seconds
+
+  // Play the audio from the start time
+  audio.addEventListener('play', function() {
+    audio.currentTime = startTime;
+  });
+
+  // Stop the audio at the end time
+  audio.addEventListener('timeupdate', function() {
+    if (audio.currentTime >= endTime) {
+      audio.pause();
+    }
+  });
+</script>
+</audio>
+
+<iframe src="https://app.fiete.ai/s/cm2n5wzxh02vs11sn4ws8iws3" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qmgyKQPwihI?si=EZG5TnsRmUVTJH-J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
