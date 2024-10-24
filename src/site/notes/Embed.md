@@ -41,7 +41,7 @@
 </script>
 </audio>
 
-<iframe src="https://app.fiete.ai/s/cm2n5wzxh02vs11sn4ws8iws3" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+<iframe src="https://app.fiete.ai/s/cm2n5wzxh02vs11sn4ws8iws3" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="100%" allowfullscreen></iframe>
 
 
 
