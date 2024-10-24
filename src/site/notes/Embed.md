@@ -12,6 +12,12 @@
 > - Verstehen, was bei der Kündigung eines Lehrvertrags beachtet werden muss.
 > - Erkennen, welche Rechte und Pflichten beide Vertragsparteien haben.
 
+<audio controls>
+  <source src="https://audio.podigee-cdn.net/834643-m-917d47af38c533dd2ed7ae923ccbfcc1.opus" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio>
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qmgyKQPwihI?si=EZG5TnsRmUVTJH-J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 >[!question] Wählen Sie eine Frage und begründen Sie Ihre Antwort
