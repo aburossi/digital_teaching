@@ -5,6 +5,10 @@
 # 1. Ausgangspunkt
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vyTNuVCdUzw?si=NOrg7BN7MXKm8YBe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe src="https://tools.fobizz.com/ai/chats/public_assistants/c733f4d0-1066-4ed8-ae69-f02d824050fa?embed=true&token=d4491581505ffd2b0ac48e5d49dc5693" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
+
+
+<iframe src="https://tools.fobizz.com/ai/chats/public_assistants/c733f4d0-1066-4ed8-ae69-f02d824050fa?embed=true&token=d4491581505ffd2b0ac48e5d49dc5693" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="100%" allowfullscreen></iframe>
 
 >[!info] Worum geht es?
 > In dieser Lektion geht es um die **Vertragsverpflichtungen** beim Lehrvertrag und die Möglichkeit, diesen zu kündigen, wenn sich die Pläne ändern. Es wird erklärt, welche Schritte notwendig sind, um einen Lehrvertrag rechtskonform aufzulösen.
