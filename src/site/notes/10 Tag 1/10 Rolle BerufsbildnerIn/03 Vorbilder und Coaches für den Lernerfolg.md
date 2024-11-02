@@ -4,7 +4,7 @@
 
 ### Auftrag Entwicklung eines persönlichen Leitfadens
 
->[!abstract] In diesem Auftrag erarbeiten Sie einen persönlichen Leitfaden für Ihre Rolle als [[90 Handbuch/Glossar+/BerufsbildnerIn\|BerufsbildnerIn]].  Dieser Leitfaden dient Ihnen als **Orientierungshilfe** und **Reflexionsinstrument** im Berufsalltag.  Sie halten darin Ihre wichtigsten Prinzipien,  Handlungsempfehlungen  und  persönlichen  Ziele  für die  Ausbildung  fest.
+>[!abstract] In diesem Auftrag erarbeiten Sie einen persönlichen Leitfaden für Ihre Rolle als [[BerufsbildnerIn\|BerufsbildnerIn]].  Dieser Leitfaden dient Ihnen als **Orientierungshilfe** und **Reflexionsinstrument** im Berufsalltag.  Sie halten darin Ihre wichtigsten Prinzipien,  Handlungsempfehlungen  und  persönlichen  Ziele  für die  Ausbildung  fest.
 >> [!success] Lernziele
 >> Das Ziel des Auftrags ist, dass…
 >> * ...Sie  Ihre  **Rolle  als  Berufsbildner/in  bewusst  reflektieren**  und  Ihre  **persönlichen  Stärken  und  Entwicklungsfelder**  identifizieren.
