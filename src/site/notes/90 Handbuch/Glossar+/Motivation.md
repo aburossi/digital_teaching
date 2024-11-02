@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/90-handbuch/glossar/motivation/"}
 ---
 
-
 # 🔍Was ist es?
 - **Motivation** ist eine innere **Antriebskraft**, die Menschen dazu bewegt, **Ziele zu setzen und aktiv zu verfolgen**. Sie ist entscheidend für das Lernen und die Arbeitseinstellung.
 - In der **beruflichen Bildung** ist Motivation ein Teil der **Sozialkompetenz** und spiegelt sich in **Begeisterung** und **Engagement** wider.

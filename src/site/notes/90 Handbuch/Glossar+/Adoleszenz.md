@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/90-handbuch/glossar/adoleszenz/"}
 ---
 
-
 # 🔍Was ist es?
 - **Adoleszenz** bezeichnet die **Übergangsphase vom Jugend- ins Erwachsenenalter** und umfasst die Entwicklung körperlicher, geistiger und sozialer Fähigkeiten.
 - Diese Lebensphase geht oft mit **Veränderungen der Identität**, des **Selbstbilds** und den ersten Erfahrungen von **Verantwortung** und **Unabhängigkeit** einher.

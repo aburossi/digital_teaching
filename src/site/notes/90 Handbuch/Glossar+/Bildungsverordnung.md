@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/90-handbuch/glossar/bildungsverordnung/"}
 ---
 
-
 # 🔍Was ist es?
 - **Bildungsverordnungen** sind rechtliche Grundlagen, die die wichtigsten Aspekte der **beruflichen Grundbildung** für spezifische Berufe festlegen. Sie definieren die **Rahmenbedingungen** für die Ausbildung.
 - Diese Verordnungen beinhalten u. a. die **Dauer und Ziele der Ausbildung**, Anforderungen an **[[90 Handbuch/Glossar+/BerufsbildnerIn\|BerufsbildnerIn]]nen**, und die **Sicherheitsvorschriften** im Betrieb.

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/90-handbuch/glossar/handlungskompetenzen/"}
 ---
 
-
 # 🔍Was ist es?
 - **Handlungskompetenzen** sind die **ganzheitlichen Fähigkeiten** einer Person, berufliche **Aufgaben eigenständig und zielorientiert** auszuführen.
 - In der **beruflichen Grundbildung** wird Handlungskompetenz als eine **Kombination von Kenntnissen, Fähigkeiten und Haltungen** definiert, die für berufliche Handlungen benötigt werden.
