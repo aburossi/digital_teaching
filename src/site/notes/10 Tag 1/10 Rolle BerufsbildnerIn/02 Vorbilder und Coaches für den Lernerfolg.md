@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-tag-1/10-rolle-berufsbildner-in/02-vorbilder-und-coaches-fuer-den-lernerfolg/","noteIcon":""}
+{"dg-publish":true,"permalink":"/10-tag-1/10-rolle-berufsbildner-in/02-vorbilder-und-coaches-fuer-den-lernerfolg/"}
 ---
 
 <iframe src="https://aburossi.github.io/prezi/BBK/rolle_berufsbildnerin/#/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="550px" width="100%" allowfullscreen></iframe>

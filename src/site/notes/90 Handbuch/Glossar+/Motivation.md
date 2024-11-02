@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-handbuch/glossar/motivation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/90-handbuch/glossar/motivation/"}
 ---
 
 

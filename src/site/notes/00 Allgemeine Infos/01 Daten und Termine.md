@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-allgemeine-infos/01-daten-und-termine/","noteIcon":""}
+{"dg-publish":true,"permalink":"/00-allgemeine-infos/01-daten-und-termine/"}
 ---
 
 [merkblatt-204-legasthenie-dyskalkulie.pdf](https://s3-ch-bern-1.obj.begasoft.ch/sdbb-drupal-backend-bbi-prod/s3fs-public/imported_files/merkblatt-204-legasthenie-dyskalkulie.pdf)

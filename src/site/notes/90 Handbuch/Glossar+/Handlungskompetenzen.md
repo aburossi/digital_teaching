@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-handbuch/glossar/handlungskompetenzen/","noteIcon":""}
+{"dg-publish":true,"permalink":"/90-handbuch/glossar/handlungskompetenzen/"}
 ---
 
 

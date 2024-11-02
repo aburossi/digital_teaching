@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-tag-1/10-rolle-berufsbildner-in/03-vorbilder-und-coaches-fuer-den-lernerfolg/","noteIcon":""}
+{"dg-publish":true,"permalink":"/10-tag-1/10-rolle-berufsbildner-in/03-vorbilder-und-coaches-fuer-den-lernerfolg/"}
 ---
 
 ### Auftrag Entwicklung eines persönlichen Leitfadens

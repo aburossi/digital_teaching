@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-tag-1/30-merkblaetter/podcast-reihe/sucht/","noteIcon":""}
+{"dg-publish":true,"permalink":"/10-tag-1/30-merkblaetter/podcast-reihe/sucht/"}
 ---
 
 

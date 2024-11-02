@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-handbuch/glossar/berufsbildner-in/","noteIcon":""}
+{"dg-publish":true,"permalink":"/90-handbuch/glossar/berufsbildner-in/"}
 ---
 
 
@@ -7,7 +7,7 @@
 - **Berufsbildner*innen** im Lehrbetrieb sind **Fachpersonen**, die den Lernenden den **praktischen Teil der beruflichen Grundbildung** vermitteln oder sicherstellen.
 - Diese Rolle setzt **ein eidgenössisches Fähigkeitszeugnis (EFZ)** im jeweiligen Beruf oder eine **gleichwertige Qualifikation** voraus, sowie mindestens **zwei Jahre Berufserfahrung** im Ausbildungsbereich.
 - Die **berufspädagogische Qualifikation** kann über anerkannte Kurse erworben werden, entweder in Form eines **40-Stunden-Kurses** (kantonal anerkannt) oder eines **100-Stunden-Bildungskurses** (mit eidgenössischem Diplom).
-- Berufsbildner*innen stützen sich auf den **Bildungsplan** und die jeweilige **Bildungsverordnung**, um die Ausbildungsziele und Inhalte umzusetzen.
+- Berufsbildner*innen stützen sich auf den **Bildungsplan** und die jeweilige **[[90 Handbuch/Glossar+/Bildungsverordnung\|Bildungsverordnung]]**, um die Ausbildungsziele und Inhalte umzusetzen.
 
 # ❗Warum es wichtig ist?
 - **Sichert Ausbildungsqualität**: Berufsbildner*innen stellen sicher, dass Lernende den praktischen Teil der Grundbildung **qualitativ hochwertig** und gemäß den **Berufsstandards** absolvieren.
