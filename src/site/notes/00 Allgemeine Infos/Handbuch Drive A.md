@@ -9,3 +9,10 @@ iframe1
 
 iframe2
 <iframe src="https://raw.githubusercontent.com/bbk-bbw/unterlagen/main/pdf/handbuch-betriebliche-grundbildung-teil-A.pdf#page=3" width="700" height="1000" ></iframe>
+
+iframe3 embed no page
+<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/bbk-bbw/unterlagen/main/pdf/handbuch-betriebliche-grundbildung-teil-A.pdf&embedded=true" width="100%" height="600px"></iframe>
+
+iframe 4 embed page
+<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/bbk-bbw/unterlagen/main/pdf/handbuch-betriebliche-grundbildung-teil-A.pdf#page=3&embedded=true" width="100%" height="600px"></iframe>
+
